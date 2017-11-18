@@ -23,12 +23,12 @@
 <br><h2 align= "center">Твоя заявка отправлена успешно!</h2>
 <p class="desc-text">
 <br><p class="desc-text1">
-<br>Если ты ввёл какие-то регистрационные данные с ошибкой, вернись пожалуйста на <a href="1pay_CHOCO.html#registrationform2">страницу регистрации</a> и введи их заново. Так мне будет намного проще внести тебя в список гостей.
+<br>Если ты ввёл какие-то регистрационные данные с ошибкой, вернись пожалуйста на <a onclick="javascript:history.back(); return false;">страницу регистрации</a> и введи их заново. Так мне будет намного проще внести тебя в список гостей.
 <br>
 <br>С наилучшими пожеланиями, администратор Соня!:)
 <br>
 <br>
-<input type="button" value="Вернуться на страницу регистрации" onclick="javascript:window.location='1pay_CHOCO.html#registrationform2'">
+<input type="button" value="Вернуться на страницу регистрации" onclick="javascript:window.location='1.0pay_CHOCO.html#registrationform2'">
 <br>
 <br>
 <br>
