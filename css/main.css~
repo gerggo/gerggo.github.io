@@ -18,6 +18,7 @@ h1 {
     width: 514px;
     letter-spacing: 0.040em;
     border: 1px solid rgba(47, 46, 47, 0.59);
+    text-align: center;    
 }
 
 
@@ -153,6 +154,10 @@ h1, h2, p, span, a {
     padding: 0;
 }
 
+h2 {
+    text-align: center;    
+}
+
 .limit {
     max-width: 1200px;
     width: 100%;
@@ -208,7 +213,7 @@ INTRO CONTAINER
     padding: 0;
     min-width: 100%;
     height: 100%;
-    background: url('../images1/wide picture/in use/2 wide.jpg') no-repeat center center;
+    background: url('../images1/main.jpg') no-repeat center center;
     background-size: cover;
     text-align: center;
     background-position: center;  
@@ -229,8 +234,8 @@ INTRO CONTAINER
 .top-title{
     color: white;
     font-family: 'Playball', cursive;
-    font-size: 120px;
-    font-weight: 400;
+    font-size: 60px;
+    font-weight: 500;
  }
 .second-title {
     font-weight: lighter; 
@@ -274,31 +279,40 @@ INTRO CONTAINER
     border-bottom: 8px solid #fff;
 }
 
-.beer.background_content{
-    background: url('../images1/wide picture/in use/for whom.jpg') no-repeat center center; 
+.chocopay.background_content{
+    background: url('../images1/condy/candy_header1.jpg') no-repeat center center; 
     background-size: cover;
-    background-position: 70% 70%;
+    background-position: 50% 50%;
 }
 
-.whatwaits.background_content{
-    background: url('../images/bread.jpg') no-repeat center center; 
+.condy.background_content{
+    background: url('../images1/condy/candy_header1.jpg') no-repeat center center; 
     background-size: cover;
-    background-position: 70% 50%;
-}
- .featured.background_content{
-    background: url('../images1/wide picture/in use/3f.jpg') no-repeat center center; 
-    background-size: cover;
-    background-position: 70% 70%;
-    <!--background-position: center;-->
-    <!--background-attachment: fixed;-->
+    background-position: 50% 50%;
 }
 
+.featured.background_content{
+    background: url('../images1/alco/alcomain.jpg') no-repeat center center; 
+    background-size: cover;
+    background-position: 50% 50%;
+}
  .feedback.background_content{
-    background: url('../images1/wide picture/in use/2bed.jpeg') no-repeat center center; 
+    background: url('../images1/alco/feedback0.jpeg') no-repeat center center; 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
+
+
+ .featurednone.background_content{
+    background: url('../images1/wide picture/in use/3f.jpg') no-repeat center center; 
+    background-size: contain;
+    background-position: 50% 50%;
+    <!--background-position: center;-->
+    <!--background-attachment: fixed;-->
+}
+
+
 
  .pricing.background_content{
     background: url('../images1/wide picture/in use/for whom.jpg') no-repeat center center; 
@@ -307,74 +321,82 @@ INTRO CONTAINER
     background-attachment: fixed;
 }
 .reservation.background_content{
-    background: url('../images1/wide picture/in use/2.2.jpg') no-repeat center center; 
+    background: url('../images1/registration.jpg') no-repeat center center; 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
-.bread.background_content{
-    background: url('../images1/wide picture/in use/1+1.1.jpg') no-repeat center center; 
+
+
+.regirl.background_content{
+    background: url('../images1/alco/for girl.jpg') no-repeat center center; 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
-.women_massage_classic{
-    background: url('../images1/wide picture/in use/massage for girl.jpg') no-repeat center center; 
-    background-size: contain;
+.reboy.background_content{
+    background: url('../images1/alco/for guy.jpg') no-repeat center center; 
+    background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
-.reservationrelax.background_content{
-    background: url('../images1/wide picture/in use/massage for girl.jpg') no-repeat center center; 
-    background-size: contain;
+
+.gfmain.background_content{
+    background: url('../images1/alco/girlfriend.jpeg') no-repeat center center; 
+    background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
-.reservationero.background_content{
-    background: url('../images1/wide picture/in use/erotic massage for woman.jpeg') no-repeat center center; 
-    background-size: contain;
+
+.bfmain.background_content{
+    background: url('../images1/alco/for boyfriend.jpeg') no-repeat center center; 
+    background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
-.reservationerostrip.background_content{
-    background: url('../images1/wide picture/in use/2 strip massage.jpeg') no-repeat center center; 
-    background-size: contain;
+
+/***********/
+
+.gfpay0.background_content{
+    background: url('../images1/alco/gf0.jpg') no-repeat center center; 
+    background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
-.reservationdoubleerostrip.background_content{
-    background: url('../images1/wide picture/in use/3.jpg') no-repeat center center; 
-    background-size: contain;
+
+.gfpay1.background_content{
+    background: url('../images1/alco/gf1.jpg') no-repeat center center; 
+    background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
-.reservationrelaxmen.background_content{
-    background: url('../images1/wide picture/in use/massage for men.jpeg') no-repeat center center; 
-    background-size: contain;
+
+.gfpay2.background_content{
+    background: url('../images1/alco/gf2.jpg') no-repeat center center; 
+    background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
-.reservationeromen.background_content{
-    background: url('../images1/wide picture/in use/erotic massage for man.jpg') no-repeat center center; 
-    background-size: contain;
+
+/***********/
+
+.bfpay0.background_content{
+    background: url('../images1/alco/bf0.jpg') no-repeat center center; 
+    background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
-.reservationerostripmen.background_content{
-    background: url('../images1/wide picture/in use/ero_strip.jpg') no-repeat center center; 
-    background-size: contain;
+
+.bfpay1.background_content{
+    background: url('../images1/alco/bf1.jpg') no-repeat center center; 
+    background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
-.reservationdoubleerostripmen.background_content{
-    background: url('../images1/wide picture/in use/2+1.2.jpg') no-repeat center center; 
-    background-size: contain;
-    background-position: center;
-    background-attachment: fixed;
-}
-.reservationallnight.background_content{
-    background: url('../images1/wide picture/in use/all_night girl.jpg') no-repeat center center; 
-    background-size: contain;
+
+.bfpay2.background_content{
+    background: url('../images1/alco/bf2.jpg') no-repeat center center; 
+    background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
@@ -657,6 +679,130 @@ h1 {
     border: 0 !important;
 }
 
+.title-text {
+  text-align: center;
+  color: pink;
+  
+}
+
+.button0 {
+    display: inline-block;
+    background-color: white;    
+	 height: 50px;
+    line-height: 50px;
+    position: relative;
+    border: 4px solid pink;
+    padding: 0 1rem;
+}
+
+.button1 {
+    display: inline-block;
+    background-color: white;    
+	 height: 50px;
+    line-height: 50px;
+    position: relative;
+    border: 4px solid black;
+    padding: 0 1rem;
+}
+
+.button2 {
+    display: inline-block;
+    background-color: white;    
+	 height: 50px;
+    line-height: 50px;
+    position: relative;
+    border: 4px solid blue;
+    padding: 0 1rem;
+}
+
+.button3 {
+    display: inline-block;
+    background-color: white;    
+	 height: 50px;
+    line-height: 50px;
+    position: relative;
+    border: 4px solid grey;
+    padding: 0 1rem;
+}
+
+.buttonpay {
+    display: inline-block;
+    background-color: white;    
+	 height: 50px;
+	 width: 200px;
+    line-height: 50px;
+    position: relative;
+    border: 4px solid lightgrey;
+    padding: 0 1rem;
+}
+
+.buttongf0 {
+    display: inline-block;
+    background-color: white;    
+	 height: 50px;
+	 width:200px;
+    line-height: 50px;
+    position: relative;
+    border: 4px solid pink;
+    padding: 0 1rem;
+}
+
+.buttongf1 {
+    display: inline-block;
+    background-color: white;    
+	 height: 50px;
+	 width:200px;
+    line-height: 50px;
+    position: relative;
+    border: 4px solid lightblue;
+    padding: 0 1rem;
+}
+
+.buttongf2 {
+    display: inline-block;
+    background-color: white;    
+	 height: 50px;
+	 width:200px;
+    line-height: 50px;
+    position: relative;
+    border: 4px solid darkorange;
+    padding: 0 1rem;
+}
+/**********/
+
+.buttonbf0 {
+    display: inline-block;
+    background-color: white;    
+	 height: 50px;
+	 width:200px;
+    line-height: 50px;
+    position: relative;
+    border: 4px solid darkblue;
+    padding: 0 1rem;
+}
+
+.buttonbf1 {
+    display: inline-block;
+    background-color: white;    
+	 height: 50px;
+	 width:200px;
+    line-height: 50px;
+    position: relative;
+    border: 4px solid darkgray;
+    padding: 0 1rem;
+}
+
+.buttonbf2 {
+    display: inline-block;
+    background-color: white;    
+	 height: 50px;
+	 width:200px;
+    line-height: 50px;
+    position: relative;
+    border: 4px solid darkgreen;
+    padding: 0 1rem;
+}
+
 /*========================
 MEDIA QUERIES MOBILE
 =========================*/
@@ -785,6 +931,7 @@ MEDIA QUERIES TABLET
         width: 430px;
         letter-spacing: 0.040em;
         border: 1px solid #2f2e2f;
+        text-align: center;
     }
     .picture_content {
         display: inline-block;
