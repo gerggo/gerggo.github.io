@@ -349,8 +349,8 @@ a<!DOCTYPE html>
                      	<br>
                      	<br>
                         <br>Суббота 18нояб 12:00 
-                        <br><p>На данный момент</p> 
-                        свободно: <b>5</b> из <b>6</b>                     	
+                        <br>На данный момент 
+                        свободно: <b>5</b> из <b>6</b></p>                     	
                      	<br>
 
                      	<hr>
@@ -364,7 +364,8 @@ a<!DOCTYPE html>
 								<div class="section clearfix">
 									<div class="title-text">   
 										<div class="button0"><a href="choco/1.0pay_CHOCO.html"><b>1 человек</b></a></div>
-										<div class="button0"><a href="choco/1.1pay_CHOCO.html"><b>2 человека</b></a></div>									
+									<br>										
+									<br><div class="button0"><a href="choco/1.1pay_CHOCO.html"><b>2 человека</b></a></div>									
 									</div>
 								</div> 
 								<hr><hr><hr>                  
@@ -377,8 +378,9 @@ a<!DOCTYPE html>
                      <br>
                      <br>
                      <br>Суббота 18нояб 12:00 
-                     <br><p>На данный момент</p> 
-                     свободно: <b>4</b> из <b>6</b>   
+                     <br>На данный момент 
+                     свободно: <b>4</b> из <b>6</b></p>
+                     <br>   
                      <hr>
 						<p class="desc-text1">   
 							Стоимость участия 1 человека - 2870 рублей
@@ -388,7 +390,8 @@ a<!DOCTYPE html>
 							<div class="section clearfix">
 								<div class="title-text">   
 									<div class="button1"><a href="choco/1.2pay_CHOCO.html"><b>1 человек</b></a></div>
-									<div class="button1"><a href="choco/1.3pay_CHOCO.html"><b>2 человека</b></a></div>	
+									<br>									
+									<br><div class="button1"><a href="choco/1.3pay_CHOCO.html"><b>2 человека</b></a></div>	
 								</div>
 							</div>
 							<hr><hr><hr>                  							                   
@@ -401,8 +404,8 @@ a<!DOCTYPE html>
                      <br>
                      <br>
                      <br>Суббота 18нояб 12:00 
-                     <br><p>На данный момент</p> 
-                     свободно: <b>4</b> из <b>6</b> 
+                     <br>На данный момент 
+                     свободно: <b>4</b> из <b>6</b></p> 
                      <br>   
                      <hr>
 						<p class="desc-text1">                                            
@@ -413,7 +416,8 @@ a<!DOCTYPE html>
 							<div class="section clearfix">
 								<div class="title-text">   
 									<div class="button2"><a href="choco/1.4pay_CHOCO.html"><b>1 человек</b></a></div>
-									<div class="button2"><a href="choco/1.5pay_CHOCO.html"><b>2 человека</b></a></div>	
+									<br>									
+									<br><div class="button2"><a href="choco/1.5pay_CHOCO.html"><b>2 человека</b></a></div>	
 								</div>
 							</div>
 							<hr><hr><hr>                  							                   
@@ -421,8 +425,11 @@ a<!DOCTYPE html>
                
                <div class="col-md-3">              
 						<p class="desc-text1">                                           
-                  	<b>оба мастер-класса +</b> по окончанию мастер-классов - <b>участие в закрытой вечеринке с безлимитными коктейлями</b><hr>
-
+                  	<b>оба мастер-класса +</b> по окончанию мастер-классов - <b>участие в закрытой вечеринке с безлимитными коктейлями</b></p>
+                  	<br>
+                  	<br>
+                  	
+                  	<hr>
 						<p class="desc-text1">                                            
 							Стоимость участия 1 человека - 5100 рублей
 						</p>
@@ -432,14 +439,10 @@ a<!DOCTYPE html>
 							<div class="section clearfix">
 								<div class="title-text">   
 									<div class="button3"><a href="choco/1.6pay_CHOCO.html"><b>1 человек</b></a></div>
-									<div class="button3"><a href="choco/1.7pay_CHOCO.html"><b>2 человека</b></a></div>	
+									<br>
+									<br><div class="button3"><a href="choco/1.7pay_CHOCO.html"><b>2 человека</b></a></div>	
 								</div>
-							</div>
-						<p class="desc-text1">   
-                     <br>Суббота 18нояб 12:00 
-                     <br>На данный момент 
-                     свободно: <b>4</b> из <b>6</b> мест
-                  </p> 							
+							</div>							
 							<hr><hr><hr>                  							                   
                </div>
                
